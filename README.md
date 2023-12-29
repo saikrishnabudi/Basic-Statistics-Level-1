@@ -1,5 +1,3 @@
-**Assignment Basic-Statistics-Level-1
-**
 
 Data Science - Basic Statistics - Level-1
 
