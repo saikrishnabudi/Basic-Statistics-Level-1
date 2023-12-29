@@ -1,11 +1,12 @@
-ExcelR Data Science Assignment No 1
+
+Data Science - Basic Statistics - Level-1
 
 This assignments will be cover following topics :
 
-Types of Data
-Probability
-Central Tendency Data (Mean, Median, Mode)
-Dispersion Data (IQR, Range, Standard Deviation, Variance)
-Shape of Data (Skewness, Kurtosis)
-Normal Distribution
-Confidence Interval
+1.) Types of Data
+2.) Probability
+3.) Central Tendency Data (Mean, Median, Mode)
+4.) Dispersion Data (IQR, Range, Standard Deviation, Variance)
+5.) Shape of Data (Skewness, Kurtosis)
+6.) Normal Distribution
+7.)Confidence Interval
